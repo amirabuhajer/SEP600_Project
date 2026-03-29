@@ -96,6 +96,9 @@ The FRDM-K64F uses **interrupt-driven UART RX** with a 128-byte software ring bu
 1. Open the Arduino Serial Monitor (115200 baud) to find the ESP32's IP address
 2. Navigate to `http://<ESP32_IP>` in a web browser
 
+## AI Assistance Note
+This project's firmware (`SEDProject.c` and `esp32.ino`) and documentation were developed with the assistance of AI coding tools.
+
 ## Dashboard Preview
 
 The web dashboard includes:
