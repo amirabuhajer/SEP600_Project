@@ -24,8 +24,8 @@
 // ║  >>> OPTION 1: HOME WIFI (uncomment this block) <<< ║
 // ╚══════════════════════════════════════════════════════╝
 #define USE_HOME_WIFI
-#define HOME_SSID "Abu Hajer"
-#define HOME_PASSWORD "Moon2023"
+#define HOME_SSID ""
+#define HOME_PASSWORD ""
 
 // ╔══════════════════════════════════════════════════════╗
 // ║  >>> OPTION 2: EDUROAM (uncomment this block)   <<< ║
@@ -36,8 +36,8 @@
 // #include "esp_wpa2.h"
 // #define EDUROAM_SSID     "eduroam"
 // #define EAP_IDENTITY     ""
-// #define EAP_USERNAME     "aabu-hajer@myseneca.ca"
-// #define EAP_PASSWORD     "Ameer2003!"
+// #define EAP_USERNAME     ""
+// #define EAP_PASSWORD     ""
 // #define EAP_ANON_ID      ""
 
 // ========= UART =========
